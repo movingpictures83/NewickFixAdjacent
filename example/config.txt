@@ -1,0 +1,2 @@
+Prefix plugins/NewickFixAdjacent/example/
+Plugin NewickFixAdjacent inputfile rooted.tree outputfile rooted.fixed.tree
